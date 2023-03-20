@@ -1,0 +1,6 @@
+[Student]-(View Grades)
+[Student]-(View University Details)
+(View Grades)>(Login)
+(View University Details)>(Login)
+(Login)<(Display Acc Locked Error)
+(Login)>(Verify Credentials)
