@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51bb1ab1-eea3-4be1-8151-ab5197c17836" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oose/oose/fis/lab/student/manager/controllers/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oose/oose/fis/lab/student/manager/fxml/login.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="51bb1ab1-eea3-4be1-8151-ab5197c17836" name="Changes" comment="SM-1 Added the login screen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filesViktor/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentmanager/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oose/oose/fis/lab/student/manager/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentmanager/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oose/oose/fis/lab/student/manager/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/studentmanager/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/oose/oose/fis/lab/student/manager/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +87,16 @@
       <updated>1679322973377</updated>
       <workItem from="1679322974535" duration="707000" />
       <workItem from="1679324647670" duration="1000" />
+      <workItem from="1679923443581" duration="319000" />
     </task>
+    <task id="LOCAL-00001" summary="SM-1 Added the login screen">
+      <created>1679325678623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679325678623</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SM-1 Added the login screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="SM-1 Added the login screen" />
   </component>
 </project>
